@@ -1,0 +1,2 @@
+The file detoxify  contains 8974 scores.
+Of these, 1 (0.011%) are classified as unreadable (not in English).
